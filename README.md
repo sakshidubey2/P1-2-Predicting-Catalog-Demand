@@ -34,3 +34,8 @@ Once we have our predicted or expected profit, write a brief report with the rec
 * *Score_No:* The probability that the customer WILL NOT respond to the catalog and not make a purchase.
 * *Score_Yes:* The probability that the customer WILL respond to the catalog and make a purchase.
 
+## Results
+
+After applying the regression formula to the new data set with the Score tool, the value for the first record of the data when we multiply predicted sales amount (Score) by probability to buy (Score_Yes) is 108.30
+
+
