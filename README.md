@@ -15,11 +15,13 @@ You’ve been asked to predict the expected profit from these 250 new customers.
 **Step 1: Business and Data Understanding**
 
 **Step 2: Analysis, Modeling, and Validation**
-Build a linear regression model, then use it to predict sales for the 250 customers.
+
+Build a linear regression model, then use it to predict sales for the 250 customers. <br>
 
 Once we have our linear regression equation, we should use our linear regression equation to predict sales for the individual people in our mailing list.
 
 **Step 3: Writeup**
+
 Once we have our predicted or expected profit, write a brief report with the recommendation to whether the company should send the catalog or not.
 
 **Hint:** We want to calculate the expected revenue from these 250 people in order to get expected profit. This means we need to multiply the probability that a person will buy our catalog as well. For example, if a customer were to buy from us, we predict this customer will buy $450 worth of products. At a 30% chance that this person will actually buy from us, we can expect revenue to be $450 x 30% = $135.
