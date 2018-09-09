@@ -38,4 +38,4 @@ Once we have our predicted or expected profit, write a brief report with the rec
 
 After applying the regression formula to the new data set with the Score tool, the value for the first record of the data when we multiply predicted sales amount (Score) by probability to buy (Score_Yes) is 108.30
 
-
+Using the above results we got a good profit and the comapany is recommended to send the catalogs to these 250 customers.
